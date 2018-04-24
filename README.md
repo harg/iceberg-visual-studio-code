@@ -5,7 +5,7 @@
 **based on [Iceberg for Vim](http://cocopon.github.io/iceberg.vim/) by [cocopon](https://github.com/cocopon)**
 
 ## Preview
-
+![Iceberg Screenshot](https://raw.githubusercontent.com/harg/iceberg-visual-studio-code/master/assets/iceber-screenshot.png)
 
 ## Features
 - coherent colorscheme
