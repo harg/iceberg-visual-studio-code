@@ -1,0 +1,23 @@
+--- originaldirectory/file2     2007-02-04 16:19:37.000000000 +0100
++++ updateddirectory/file2      2007-02-04 16:20:08.000000000 +0100
+@@ -1,4 +1,4 @@
+-This is the second original file.
++This is the second updated file.
+
+S
+O
+@@ -11,7 +11,6 @@
+C
+E
+
+-We're going to add something in this file and to delete this line.
+
+S
+O
+@@ -24,5 +23,6 @@
+C
+E
+
++This is line has been added to this updated file.
+
+Something will be added above this line.
