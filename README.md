@@ -4,7 +4,7 @@
 
 **based on [Iceberg for Vim](http://cocopon.github.io/iceberg.vim/) by [cocopon](https://github.com/cocopon)**
 
-## Preview
+## General preview
 ![Iceberg Screenshot](https://raw.githubusercontent.com/harg/iceberg-visual-studio-code/master/assets/iceberg-screenshot.png)
 
 ## Features
@@ -20,6 +20,29 @@
 4. Click **Reload** to reload  your editor
 5. Code > Preferences > Color Theme > **Iceberg**
 
+## Language preview
+
+### Python
+
+![Python example](https://raw.githubusercontent.com/harg/iceberg-visual-studio-code/master/assets/iceberg-py-screenshot.png)
+
+### PHP
+
+![PHP example](https://raw.githubusercontent.com/harg/iceberg-visual-studio-code/master/assets/iceberg-php-screenshot.png)
+
+### Go
+
+![Go example](https://raw.githubusercontent.com/harg/iceberg-visual-studio-code/master/assets/iceberg-go-screenshot.png)
+
+### Ruby
+
+![Ruby example](https://raw.githubusercontent.com/harg/iceberg-visual-studio-code/master/assets/iceberg-rb-screenshot.png)
+
+### XML
+
+![XML example](https://raw.githubusercontent.com/harg/iceberg-visual-studio-code/master/assets/iceberg-xml-screenshot.png)
+
+
 ## For other environments
 
 - [Vim](http://cocopon.github.io/iceberg.vim/) by [cocopon](https://github.com/cocopon) (The original!)
@@ -30,4 +53,4 @@
 - [AppCode](https://github.com/Kuniwak/iceberg.icls) by [Kuniwak](https://github.com/Kuniwak)
 
 
-**enjoy**
+**enjoy!**
