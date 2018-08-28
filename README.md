@@ -51,6 +51,6 @@
 - [Atom](https://github.com/cocopon/atom-iceberg-syntax/) by [cocopon](https://github.com/cocopon)
 - [Xcode](https://github.com/cocopon/xcode-iceberg) by [cocopon](https://github.com/cocopon)
 - [AppCode](https://github.com/Kuniwak/iceberg.icls) by [Kuniwak](https://github.com/Kuniwak)
-
+- [Hyper](https://github.com/cocopon/hyper-iceberg) by [cocopon](https://github.com/cocopon)
 
 **enjoy!**
