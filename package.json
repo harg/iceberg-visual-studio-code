@@ -3,7 +3,7 @@
   "displayName": "Iceberg",
   "description":
     "Iceberg is a dark blue Visual Studio Code Theme. It brings a cool-headed perspective for your happy coding! (based on Iceberg for VIM)",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "harg",
   "icon": "iceberg.png",
   "homepage": "https://github.com/harg/iceberg-visual-studio-code",

@@ -101,6 +101,8 @@
     "list.inactiveSelectionBackground": "#2a3158",
     "list.inactiveSelectionForeground": "#c6c8d1",
     "list.invalidItemForeground": "#e27878",
+    "list.errorForeground": "#e27878",
+    "list.warningForeground": "#e2a478",
     "merge.border": "#16182100",
     "merge.currentContentBackground": "#89b8c24d",
     "merge.currentHeaderBackground": "#89b8c266",
@@ -181,7 +183,13 @@
     "titleBar.border": "#c6c8d111",
     "titleBar.inactiveBackground": "#242940",
     "titleBar.inactiveForeground": "#6b7089",
-    "selection.background": "#84a0c666"
+    "selection.background": "#84a0c666",
+    "editorSuggestWidget.highlightForeground": "#e2a478",
+    "breadcrumb.activeSelectionForeground": "#cdd1e6",
+    "breadcrumb.focusForeground": "#cdd1e6",
+    "breadcrumb.foreground": "#6b7089",
+    "breadcrumbPicker.background": "#161821",
+    "editorUnnecessaryCode.opacity": "#00000088"
   },
   "tokenColors": [
     {
