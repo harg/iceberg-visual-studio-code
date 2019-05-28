@@ -20,6 +20,14 @@
 4. Click **Reload** to reload  your editor
 5. Code > Preferences > Color Theme > **Iceberg**
 
+## Restore gutter background
+
+Add the following line to you `settings.json` :
+
+`"workbench.colorCustomizations": {
+    "editorGutter.background": "#1e2132"
+}`
+
 ## Language preview
 
 ### Python

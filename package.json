@@ -1,30 +1,36 @@
 {
-  "name": "iceberg",
-  "displayName": "Iceberg",
-  "description":
-    "Iceberg is a dark blue Visual Studio Code Theme. It brings a cool-headed perspective for your happy coding! (based on Iceberg for VIM)",
-  "version": "1.1.0",
-  "publisher": "harg",
-  "icon": "iceberg.png",
-  "homepage": "https://github.com/harg/iceberg-visual-studio-code",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/harg/iceberg-visual-studio-code"
-  },
-  "bugs": {
-    "url": "https://github.com/harg/iceberg-visual-studio-code/issues"
-  },
-  "engines": {
-    "vscode": "^1.22.0"
-  },
-  "categories": ["Themes"],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Iceberg",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Iceberg-color-theme.json"
-      }
-    ]
-  }
+	"name": "iceberg",
+	"displayName": "Iceberg",
+	"description": "Iceberg is a dark blue Visual Studio Code Theme. It brings a cool-headed perspective for your happy coding! (based on Iceberg for VIM)",
+	"version": "1.2.0",
+	"publisher": "harg",
+	"icon": "iceberg.png",
+	"homepage": "https://github.com/harg/iceberg-visual-studio-code",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/harg/iceberg-visual-studio-code"
+	},
+	"bugs": {
+		"url": "https://github.com/harg/iceberg-visual-studio-code/issues"
+	},
+	"engines": {
+		"vscode": "^1.22.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Iceberg",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Iceberg-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "dd1f7067-32c4-4ce4-a908-247cbd7397c7",
+		"publisherDisplayName": "harg",
+		"publisherId": "68ee93b2-e188-4084-bc6e-11e3db7f52bc"
+	}
 }
